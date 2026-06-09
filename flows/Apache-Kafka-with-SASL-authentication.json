@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1781035312599,
+    "description" : "Flow: Apache Kafka with SASL authentication",
+    "identifier" : "Apache-Kafka-with-SASL-authentication",
+    "lastModifiedTimestamp" : 1781035312599,
+    "name" : "Apache Kafka with SASL authentication",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
